@@ -6,14 +6,13 @@ Sen2Fire Multispectral Wildfire Intelligence is a research-oriented project that
 ### Multispectral Segmentation
 Investigates the use of multiple Sentinel-2 spectral bands to segment wildfire-related regions. Experiments compare RGB and multispectral inputs to evaluate the contribution of spectral information to segmentation performance.
 
-#### Cross-Region Generalization
+### Cross-Region Generalization
 Evaluates model robustness on geographically distinct scenes that are excluded from training. The objective is to understand how geographical distribution shifts affect prediction quality and whether learned spectral representations generalize beyond the training data.
 
-#### Burn Severity Analytics
+### Burn Severity Analytics
 Explores post-fire land damage assessment using spectral indicators such as the Normalized Burn Ratio (NBR) and differenced Normalized Burn Ratio (dNBR). Suitable pre-fire and post-fire satellite imagery will be required to analyze changes in vegetation and burned landscapes.
 
-### Dataset
-
+## Dataset
 Primary dataset: Sen2Fire
 Sen2Fire serves as the initial benchmark for multispectral wildfire-related segmentation experiments.
 Dataset source: https://zenodo.org/records/10881058
