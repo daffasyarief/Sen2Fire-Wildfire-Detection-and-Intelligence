@@ -1,5 +1,5 @@
-# Sen2Fire-Wildfire-Detection-and-Intelligence
-Sen2Fire Multispectral Wildfire Intelligence is a research-oriented project that investigates the application of multispectral satellite imagery and deep learning for wildfire analysis. Using the Sen2Fire dataset as the initial benchmark, the project explores how spectral information can support wildfire-related segmentation, how models generalize across geographical regions, and how satellite-derived spectral indices can support post-fire burn severity assessment.
+# Sen2Fire-Wildfire-Detection
+Sen2Fire Multispectral Wildfire is a research-oriented project that investigates the application of multispectral satellite imagery and deep learning for wildfire analysis. Using the Sen2Fire dataset as the initial benchmark, the project explores how spectral information can support wildfire-related segmentation, how models generalize across geographical regions, and how satellite-derived spectral indices can support post-fire burn severity assessment.
 
 ## Core Components
 
